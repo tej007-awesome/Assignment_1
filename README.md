@@ -1,2 +1,2 @@
 # Assignment_1
-User friendly blogin page using AI and NextJS
+User friendly login page using AI and NextJS
